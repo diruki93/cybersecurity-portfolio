@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ai-in-cybersecurity.avif" alt="Cybersecurity Banner" width="100%">
+  <img src="assets/download.jpg" alt="Cybersecurity Banner" width="100%">
 </p>
 
 # 🔐 Cybersecurity Portfolio
@@ -10,11 +10,11 @@ It highlights practical work in **threat detection, vulnerability management, in
 ---
 
 ## 📌 Projects
-- 🔍 [SIEM Project](./SIEM-Project) – Log monitoring & threat detection using Splunk.
-- 🛡 [Vulnerability Management](./Vulnerability-Management) – Vulnerability scanning with Qualys.
-- 🚨 [Incident Response](./Incident-Response) – Phishing attack simulation and response playbook.
-- 🌐 [Network Security Lab](./Network-Security-Lab) – Firewall & IDS configuration.
-- 🎯 [TryHackMe & HackTheBox](./TryHackMe-HackTheBox) – Capture the Flag challenges and write-ups.
+- 🔍 [SIEM Project](./SIEM-Project) – Log monitoring & threat detection using Splunk.  
+- 🛡 [Vulnerability Management](./Vulnerability-Management) – Vulnerability scanning with Qualys.  
+- 🚨 [Incident Response](./Incident-Response) – Phishing attack simulation and response playbook.  
+- 🌐 [Network Security Lab](./Network-Security-Lab) – Firewall & IDS configuration.  
+- 🎯 [TryHackMe & HackTheBox](./TryHackMe-HackTheBox) – Capture the Flag challenges and write-ups.  
 
 ---
 
